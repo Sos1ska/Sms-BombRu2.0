@@ -6,8 +6,8 @@ TERMUX:
 3. Вводим apt update && apt upgrade
 4. Вводим pkg install git
 5. Вводим git clone https://github.com/Sos1ska/Sms-BombRu2.0
-6. chmod 777 ~/Sms-BombRu2.0/Sms-BombRu2.0/Unix/install.sh
-7. sh ~/Sms-BombRu2.0/Sms-BombRu2.0/Unix/install.sh
+6. chmod 777 ~/Sms-BombRu2.0/Sos-BombRu2.0/Unix/install.sh
+7. sh ~/Sms-BombRu2.0/Sos-BombRu2.0/Unix/install.sh
 
 IOS:
 1. Скачиваем https://apps.apple.com/ru/app/testflight/id899247664 потом начать тестирование в https://testflight.apple.com/join/97i7KM8O
